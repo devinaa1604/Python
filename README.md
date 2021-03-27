@@ -1,7 +1,7 @@
 # Python
 This repository is for me to practice with Python. Refer to the Supplemental folder for the necessary downloads.
 
-## Topics Covered:
+## Topics Covered
 
 1. Variables
 2. Conditionals
