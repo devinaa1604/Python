@@ -5,6 +5,14 @@ This repository is for me to practice with Python. Refer to the Supplemental fol
 
 1. Variables
 2. Conditionals
+3. Loops
+4. Pseudocoding
+5. Lists
+6. Iterate Lists
+7. Dictionaries
+8. Nesting
+9. Functions
+10. Importing CSV
 
 ## Slides
 
